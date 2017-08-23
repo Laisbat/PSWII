@@ -1,7 +1,7 @@
 <%-- 
-    Document   : Atualidades
+    Document   : atualidades
     Created on : 08/08/2017, 21:37:08
-    Author     : ra21606437
+    Author     : rafael.soares
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -13,8 +13,8 @@
     </head>
     <body>
         <h1>Atualidades</h1>
-        <h2>Confira o que rolou no 'Globo Lab', encontro colaborativo para o 'Lazinho com Você'</h2>
-        <h2>Tina abre o coração para Mitsuko</h2>
-        <h2>Dicas de moda: jaqueta de Shirley rouba cena no capítulo de 8/8, de 'A Força do Querer'</h2>
+        <h2>Jeiza dá lição em Bibi e web vibra</h2>
+        <h2>Ex-BBB Emilio Zagaia comenta reabilitação após AVC: 'Tudo é lento, mas o principal é viver'</h2>
+        <h2>Tato convida Keyla para morar junto</h2>
     </body>
 </html>
